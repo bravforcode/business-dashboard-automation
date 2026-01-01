@@ -1,3 +1,15 @@
+## Dashboard Preview
+![cover](./images/cover.png)
+
+### Main Dashboard
+![dashboard](./images/dashboard.png)
+
+### Data Table
+![table](./images/table-view.png)
+
+### Map Visualization
+![map](./images/map-view.png)
+
 Business Dashboard & Data Automation
 ระบบแดชบอร์ดธุรกิจและข้อมูลอัตโนมัติ
 
